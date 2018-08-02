@@ -4,22 +4,22 @@
   display: none;
 }
 
-#wall div#tag-2 {
+#wall #tag-2 {
     display: none;
 }
 
-div#wall div#tag-2 + #tag-3 {
+#wall #tag-2 + #tag-3 {
     display: none;
 }
 
-#wall div#tag-4 {
+#wall #tag-4 {
     display: none;
 }
 
-div#wall div.parent #tag-5.slick {
-    display.none
+#wall div.parent #tag-5.slick {
+    display: none
 }
 
 div.parent > div {
-    diplay.none
+    display: none
 }
